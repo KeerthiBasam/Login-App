@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  font-family: 'Roboto';
+}
